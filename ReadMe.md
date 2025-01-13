@@ -15,7 +15,7 @@ https://www.kaggle.com/datasets/iamsouravbanerjee/customer-shopping-trends-datas
 
 ## Dashboard 🖼️
 
-![Screenshot 2025-01-12 154445](https://github.com/user-attachments/assets/3b037014-a05f-4534-b716-6937b6e7f346)
+![Screenshot 2025-01-12 154445](https://github.com/user-attachments/assets/3395fa43-619e-46a5-a651-58ca32f03077)
 
 ## Observation 👓
 
